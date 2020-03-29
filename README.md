@@ -23,7 +23,9 @@ Sprint11 for Yandex Prarktikum
 ### Installation 
 
 git clone https://github.com/lord-retsudo/ya-cards.git
+
 cd ya-cards
+
 npm i 
 
 ### Build

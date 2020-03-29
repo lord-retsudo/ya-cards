@@ -1,0 +1,17 @@
+.popup__big-image { 
+    max-width: 100%;
+    height: auto;       
+    display: block;      
+    object-fit: contain;
+    background-position: center;  
+    background-repeat: no-repeat;  
+    position: relative;    
+  }
+
+  .popup__big-image::after {
+    content: '';
+    display: block;      
+    background-color: rgba(0, 0, 0, .3);    
+  }
+
+  

@@ -1,0 +1,6 @@
+.popup__button_enabled {
+    border: 1px solid rgba(255, 255, 255, 1);
+    color: rgba(255, 255, 255, 1);
+    background: #000000;    
+  }
+  
